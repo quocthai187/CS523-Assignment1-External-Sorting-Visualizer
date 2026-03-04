@@ -6,7 +6,7 @@
 <h1 align="center">CS523 - CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT NÂNG CAO</h1>
 
 # EXTERNAL SORT VISUALIZER
-> Xây dựng ứng dụng web trực quan hóa thuật toán Sắp xếp ngoại **(External Sort)** theo phương pháp trộn nhiều đường cân bằng **(Balanced Multiway Merge Sort)** trên File nhị phân chứa số thực 8 Bytes.
+> Xây dựng ứng dụng Web trực quan hóa thuật toán Sắp xếp ngoại **(External Sort)** theo phương pháp trộn nhiều đường cân bằng **(Balanced Multiway Merge Sort)** trên File nhị phân chứa các số thực có kích thước 8 Bytes.
 
 LINK DEMO: https://cs-523-assignment1-external-sorting.vercel.app/
 ---
